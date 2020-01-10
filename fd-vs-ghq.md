@@ -4,6 +4,8 @@
 
 ## Environment
 
+### Version
+
 ```
 $ hyperfine --version
 hyperfine 1.9.0
@@ -11,6 +13,13 @@ $ fd --version
 fd 7.4.0
 $ ghq --version
 ghq version 1.0.1 (rev:91944fb)
+```
+
+### Misc
+
+```
+$ ghq list | wc -l
+    928
 ```
 
 ## Benchmarks
