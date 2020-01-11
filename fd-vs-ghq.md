@@ -1,6 +1,7 @@
 # fd vs ghq
 
-[fd](https://github.com/sharkdp/fd) vs [ghq](https://github.com/motemen/ghq)
+- fd: https://github.com/sharkdp/fd
+- ghq: https://github.com/motemen/ghq
 
 ## Environment
 
